@@ -1,0 +1,18 @@
+#################  
+## npm
+#################
+
+/node_modules/*/node-modules/ 
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+logs
+
+node_modules
+npm-debug.log
